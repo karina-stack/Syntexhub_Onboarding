@@ -1,5 +1,5 @@
 # Syntexhub_Onboarding
-# Syntecxhub UI/UX Internship Project
+
 
 ## Project Name
 Onboarding Flow & Interactive Prototype
